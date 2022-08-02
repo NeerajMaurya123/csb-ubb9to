@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://neerajmaurya123.github.io/csb-ubb9to/static/css/main.69c0c502.chunk.css",
+    "main.js": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/main.e27f9cf9.chunk.js",
+    "main.js.map": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/main.e27f9cf9.chunk.js.map",
+    "runtime-main.js": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/runtime-main.2c62b82d.js",
+    "runtime-main.js.map": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/runtime-main.2c62b82d.js.map",
+    "static/js/2.454e6f87.chunk.js": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/2.454e6f87.chunk.js",
+    "static/js/2.454e6f87.chunk.js.map": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/2.454e6f87.chunk.js.map",
+    "index.html": "https://neerajmaurya123.github.io/csb-ubb9to/index.html",
+    "static/css/main.69c0c502.chunk.css.map": "https://neerajmaurya123.github.io/csb-ubb9to/static/css/main.69c0c502.chunk.css.map",
+    "static/js/2.454e6f87.chunk.js.LICENSE.txt": "https://neerajmaurya123.github.io/csb-ubb9to/static/js/2.454e6f87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c62b82d.js",
+    "static/js/2.454e6f87.chunk.js",
+    "static/css/main.69c0c502.chunk.css",
+    "static/js/main.e27f9cf9.chunk.js"
+  ]
+}
